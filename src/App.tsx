@@ -51,7 +51,7 @@ export default function App() {
         </section>
         <footer className="fixed bottom-0 px-2">
           <p className="">
-            Made with ❤️ by <a className="text-blue-500 hover:text-blue-300" href="//github.com/kevinnvm">Kevin</a>
+            Made with ❤️ by <a className="text-blue-500 hover:text-blue-300" href="//github.com/kevintherm">Kevin</a>
           </p>
         </footer>
       </main>
