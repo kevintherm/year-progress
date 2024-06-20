@@ -18,7 +18,7 @@ This React app calculates and visualizes the progress of the current year based 
 1. Clone this repository
 2. Run the dev server command
 ```bash
-git clone github.com/KevinNVM/year-progress-bar.git
+git clone github.com/kevintherm/year-progress.git
 cd year-progress-bar
 npm install
 npm run dev # press o then enter to open it in browser
