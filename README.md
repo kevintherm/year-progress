@@ -1,3 +1,5 @@
+![Cart Feature](Screenshot%202024-06-20%20123858.png)
+
 # Year Progress Tracker App
 
 This React app calculates and visualizes the progress of the current year based on elapsed time. It dynamically updates a progress bar and displays the percentage of the year that has passed.
