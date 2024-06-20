@@ -28,3 +28,6 @@ npm run dev # press o then enter to open it in browser
 
 ## Credits
 - UI is built using React, tailwindcss, shacdn/ui
+
+## Look Around  
+[https://kevindarmawan.com/year-progress/](https://kevindarmawan.com/year-progress/)
